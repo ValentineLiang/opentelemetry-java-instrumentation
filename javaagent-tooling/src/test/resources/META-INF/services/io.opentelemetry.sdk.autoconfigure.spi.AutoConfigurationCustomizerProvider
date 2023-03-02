@@ -1,2 +1,0 @@
-io.opentelemetry.javaagent.tooling.config.ConfigurationFileLoader
-io.opentelemetry.javaagent.tooling.config.ConfigurationFileLoaderTest$UserCustomPropertiesSupplier
